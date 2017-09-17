@@ -1,0 +1,605 @@
+{
+	"toJSON": true,
+	"extraProperties": {
+		"version": "2",
+		"classes": {
+			"Preferences": {
+				"panelColor": "#D7E3BC",
+				"methVisible": "true",
+				"methodInhVisible": "true",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 25,
+						"Y": 20
+					}
+				}
+			},
+			"Contacts": {
+				"panelColor": "#E5B9B7",
+				"methVisible": "true",
+				"methodInhVisible": "true",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 43,
+						"Y": 738
+					}
+				}
+			},
+			"Payments": {
+				"panelColor": "#B7DDE8",
+				"methVisible": "true",
+				"methodInhVisible": "true",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 25,
+						"Y": 270
+					}
+				}
+			},
+			"Travelers": {
+				"panelColor": "#548DD4",
+				"methVisible": "true",
+				"methodInhVisible": "true",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 401,
+						"Y": 273
+					}
+				}
+			},
+			"Documents": {
+				"panelColor": "#E5B9B7",
+				"methVisible": "true",
+				"methodInhVisible": "true",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 839,
+						"Y": 486
+					}
+				}
+			}
+		},
+		"model": {
+			"scriptMode": "manual",
+			"workspaceLeft": 367,
+			"workspaceTop": 843,
+			"methodShowMode": "true",
+			"methodInhShowMode": "true",
+			"lastScriptLocation": {
+				"Travelers": {
+					"method": "Travelers/Travelers-methods.js"
+				},
+				"Payments": {
+					"events": "Payments/Payments-events.js"
+				}
+			}
+		}
+	},
+	"dataClasses": [
+		{
+			"name": "Contacts",
+			"className": "Contacts",
+			"collectionName": "ContactsCollection",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "travalerID",
+					"kind": "relatedEntity",
+					"matchColumn": "travelerID,travel",
+					"scope": "public",
+					"type": "Travelers",
+					"path": "Travelers"
+				},
+				{
+					"name": "fullName",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "relationship",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "phoneMobile",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "phoneHome",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "emailaddress",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				}
+			]
+		},
+		{
+			"name": "Documents",
+			"className": "Documents",
+			"collectionName": "DocumentsCollection",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "travelerID",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "Travelers",
+					"path": "Travelers"
+				},
+				{
+					"name": "docType",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "docPDF",
+					"kind": "storage",
+					"scope": "public",
+					"type": "image"
+				}
+			]
+		},
+		{
+			"name": "Payments",
+			"className": "Payments",
+			"collectionName": "PaymentsCollection",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "travelerID",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "Travelers",
+					"path": "Travelers"
+				},
+				{
+					"name": "trxDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "chgPmnt",
+					"kind": "storage",
+					"matchColumn": "chap,change",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "description",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "trxAmount",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "trxLocalAmt",
+					"kind": "calculated",
+					"scope": "public",
+					"type": "number",
+					"scriptKind": "javascript",
+					"onGet": [
+						{
+							"from": "$mainModel.Payments.trxLocalAmt.onGet",
+							"userDefined": true
+						}
+					]
+				},
+				{
+					"name": "balOwing",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "trxCurrency",
+					"kind": "storage",
+					"matchColumn": "trx_Currency",
+					"scope": "public",
+					"type": "string"
+				}
+			]
+		},
+		{
+			"name": "Preferences",
+			"className": "Preferences",
+			"collectionName": "PreferencesCollection",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "tripName",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "nzdusd",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "nadeur",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "nzdaud",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "currentdate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				}
+			]
+		},
+		{
+			"name": "Travelers",
+			"className": "Travelers",
+			"collectionName": "TravelersCollection",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "emailAddr",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "password",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "surname",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "firstNames",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "birthDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "passportNo",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "passportExp",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "passportIssuePlace",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "birthCountry",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "phoneMobile",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "phoneHome",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "documentsCollection",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "DocumentsCollection",
+					"reversePath": true,
+					"path": "travelerID"
+				},
+				{
+					"name": "contactsCollection",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "ContactsCollection",
+					"reversePath": true,
+					"path": "travalerID"
+				},
+				{
+					"name": "paymentsCollection",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "PaymentsCollection",
+					"reversePath": true,
+					"path": "travelerID"
+				},
+				{
+					"name": "visaConfirm",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "healthConfirm",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "tripTerms",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "anyNotes",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "tourName",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "passportCountry",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "frequentFlyerAirline",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "frequentFlyerNo",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "healthVegetarian",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "healthFoodIntolerance",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "healthAllergies",
+					"kind": "storage",
+					"matchColumn": "healthAlergies,f",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "healthVacDone",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "healthMedical",
+					"kind": "storage",
+					"matchColumn": "fg",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "healthMedications",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "healthVacAgree",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "healthOther",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "travelWithGroup",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "travelDepartDate",
+					"kind": "storage",
+					"matchColumn": "travelReturnArriveDate, travelReturnDate",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "travelCountries",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "ticketBookingRef",
+					"kind": "storage",
+					"matchColumn": "travelBookingRef",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "ticketReturnDate",
+					"kind": "storage",
+					"matchColumn": "travelReturnDate",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "ticketReturnFlight",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "teamPreference",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "teamManualLabour",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "teamTShirtSize",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "teamTShirtColour",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "paymentOption",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "travelReturnOwn",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "travelExtraInsurance",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				}
+			],
+			"methods": [
+				{
+					"name": "calcBalances",
+					"applyTo": "dataClass",
+					"scope": "public",
+					"from": "$mainModel.Travelers.methods.calcBalances",
+					"userDefined": true
+				}
+			]
+		}
+	],
+	"type": []
+}

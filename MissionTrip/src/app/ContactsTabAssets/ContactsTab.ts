@@ -1,0 +1,1 @@
+import {Component} from '@angular/core';@Component({  selector: 'contacts-tab',  templateUrl: 'ContactsTab.html',})export class ContactsTab {}

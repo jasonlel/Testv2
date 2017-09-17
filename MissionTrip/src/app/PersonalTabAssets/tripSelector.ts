@@ -1,0 +1,1 @@
+import {Component} from '@angular/core';@Component({  selector: 'trip-selector',  templateUrl: 'tripSelector.html',})export class tripSelector {  trips = [    {value: 'south-africa-0', viewValue: 'South Africa'},    {value: 'cambodia-1', viewValue: 'Cambodia'},    {value: 'both-trips-2', viewValue: 'Both Trips'}  ];}
