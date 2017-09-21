@@ -56,3 +56,54 @@
 2017-09-07 09:43:27 [wakanda.Test] INFO - "Test" solution started
 2017-09-07 09:43:27 [wakanda] INFO - "Test" solution has been successfully opened for running (duration: 3000 ms)
 2017-09-07 09:43:27 [wakanda.supervisor] INFO - solution opened
+2017-09-19 15:17:18 [wakanda.jvsc] ERROR - [4055] exports is not defined, line #2, file:///Users/admin/Documents/Wakanda/solutions/Test/required.js., task #29187, task name is HTTP connection handler
+2017-09-19 15:17:18 [wakanda.JS4D] ERROR - [2] Error evaluating javascript file:///Users/admin/Documents/Wakanda/solutions/Test/required.js, task #29187, task name is HTTP connection handler
+2017-09-21 11:39:59 [wakanda.xmlc] ERROR - [3] expected end of tag 'domain', task #775
+2017-09-21 11:41:43 [wakanda.xmlc] ERROR - [3] expected end of tag 'domain', task #775
+2017-09-21 11:42:19 [wakanda.xmlc] ERROR - [3] expected end of tag 'domain', task #775
+2017-09-21 11:42:35 [wakanda.xmlc] ERROR - [3] expected end of tag 'domain', task #775
+2017-09-21 11:44:33 [wakanda.xmlc] ERROR - [3] expected end of tag 'domain', task #775
+2017-09-21 11:44:49 [wakanda.xmlc] ERROR - [3] expected end of tag 'domain', task #775
+2017-09-21 11:45:52 [wakanda.xmlc] ERROR - [3] expected end of tag 'domain', task #775
+2017-09-21 11:51:41 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-21 11:51:41 [wakanda.Test.backend.xmlc] ERROR - [3] expected end of tag 'domain', task #775
+2017-09-21 11:51:41 [wakanda.Test.backend.xmlc] ERROR - [3] expected end of tag 'domain', task #775
+2017-09-21 11:51:41 [wakanda.Test.backend.iasv] ERROR - [1019] Cannot load the settings files, task #775
+2017-09-21 11:51:41 [wakanda.Test.backend] WARN - "backend" project opened with errors
+2017-09-21 11:51:41 [wakanda.Test.iasv] ERROR - [1013] Cannot open 'backend' project, task #775
+2017-09-21 11:51:41 [wakanda.Test.backend] INFO - "backend" project closed
+2017-09-21 11:51:41 [wakanda.Test] WARN - "Test" solution opened with errors
+2017-09-21 11:51:41 [wakanda.Test] INFO - "Test" solution closed
+2017-09-21 11:55:43 [wakanda] INFO - Opens the solution "Macintosh HD:Users:admin:Documents:Wakanda:solutions:Test:app.waSolution" for running
+2017-09-21 11:55:44 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-21 11:55:44 [wakanda.Test.backend.iasv] ERROR - [1061] , task #775
+2017-09-21 11:55:44 [wakanda.Test.backend] WARN - "backend" project opened with errors
+2017-09-21 11:55:44 [wakanda.Test.iasv] ERROR - [1013] Cannot open 'backend' project, task #775
+2017-09-21 11:55:44 [wakanda.Test.backend] INFO - "backend" project closed
+2017-09-21 11:55:44 [wakanda.Test] WARN - "Test" solution opened with errors
+2017-09-21 11:55:44 [wakanda.Test] INFO - "Test" solution closed
+2017-09-21 11:57:25 [wakanda] INFO - Opens the solution "Macintosh HD:Users:admin:Documents:Wakanda:solutions:Test:app.waSolution" for running
+2017-09-21 11:57:25 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-21 11:57:25 [wakanda.Test.backend.iasv] ERROR - [1061] , task #775
+2017-09-21 11:57:25 [wakanda.Test.backend] WARN - "backend" project opened with errors
+2017-09-21 11:57:25 [wakanda.Test.iasv] ERROR - [1013] Cannot open 'backend' project, task #775
+2017-09-21 11:57:25 [wakanda.Test.backend] INFO - "backend" project closed
+2017-09-21 11:57:25 [wakanda.Test] WARN - "Test" solution opened with errors
+2017-09-21 11:57:25 [wakanda.Test] INFO - "Test" solution closed
+2017-09-21 12:00:47 [wakanda] INFO - Opens the solution "Macintosh HD:Users:admin:Documents:Wakanda:solutions:Test:app.waSolution" for running
+2017-09-21 12:00:48 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-21 12:00:48 [wakanda.Test.backend.iasv] ERROR - [1061] , task #775
+2017-09-21 12:00:48 [wakanda.Test.backend] WARN - "backend" project opened with errors
+2017-09-21 12:00:48 [wakanda.Test.iasv] ERROR - [1013] Cannot open 'backend' project, task #775
+2017-09-21 12:00:48 [wakanda.Test.backend] INFO - "backend" project closed
+2017-09-21 12:00:48 [wakanda.Test] WARN - "Test" solution opened with errors
+2017-09-21 12:00:48 [wakanda.Test] INFO - "Test" solution closed
+2017-09-21 12:01:59 [wakanda.supervisor] INFO - solution closed
+2017-09-21 12:01:59 [wakanda] INFO - Opens the solution "Macintosh HD:Users:admin:Documents:Wakanda:solutions:Test:app.waSolution" for running
+2017-09-21 12:01:59 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-21 12:01:59 [wakanda.Test.backend.iasv] ERROR - [1061] , task #775
+2017-09-21 12:01:59 [wakanda.Test.backend] WARN - "backend" project opened with errors
+2017-09-21 12:01:59 [wakanda.Test.iasv] ERROR - [1013] Cannot open 'backend' project, task #775
+2017-09-21 12:01:59 [wakanda.Test.backend] INFO - "backend" project closed
+2017-09-21 12:01:59 [wakanda.Test] WARN - "Test" solution opened with errors
+2017-09-21 12:02:00 [wakanda.Test] INFO - "Test" solution closed

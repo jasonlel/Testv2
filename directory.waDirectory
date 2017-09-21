@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><directory>
 	<group ID="01000000000000000000000000000000" name="Admin">	</group>
 	<group ID="28040649E6EF474EA2CEE5E05EC25AE8" name="users">
-		<include user="jason@potential.org.nz" ID="090A71B122774DA78BF0A23179A08232"/>
+		<include user="jason" ID="090A71B122774DA78BF0A23179A08232"/>
 	</group>
-	<user ID="090A71B122774DA78BF0A23179A08232" name="jason@potential.org.nz" fullName="Jason Lelieveld" password="abe471d59b2f0910b88c8fd7ff7535b6"/>
+	<user ID="090A71B122774DA78BF0A23179A08232" name="jason" fullName="Jason Lelieveld" password="20a16e146f6991549806121ddf079f4b"/>
 </directory>
