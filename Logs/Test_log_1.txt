@@ -107,3 +107,414 @@
 2017-09-21 12:01:59 [wakanda.Test.backend] INFO - "backend" project closed
 2017-09-21 12:01:59 [wakanda.Test] WARN - "Test" solution opened with errors
 2017-09-21 12:02:00 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 09:43:24 [wakanda] INFO - Opens the solution "Macintosh HD:Users:alistairbates:projects:_mentor:stephen-davies:Test:app.waSolution" for running
+2017-09-29 09:43:25 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 09:43:25 [wakanda.Test.backend.iasv] ERROR - [1061] , task #775
+2017-09-29 09:43:25 [wakanda.Test.backend] WARN - "backend" project opened with errors
+2017-09-29 09:43:25 [wakanda.Test.iasv] ERROR - [1013] Cannot open 'backend' project, task #775
+2017-09-29 09:43:25 [wakanda.Test.backend] INFO - "backend" project closed
+2017-09-29 09:43:25 [wakanda.Test] WARN - "Test" solution opened with errors
+2017-09-29 09:43:25 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 09:47:26 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 09:47:26 [wakanda.Test.backend.iasv] ERROR - [1061] , task #775
+2017-09-29 09:47:26 [wakanda.Test.backend] WARN - "backend" project opened with errors
+2017-09-29 09:47:26 [wakanda.Test.iasv] ERROR - [1013] Cannot open 'backend' project, task #775
+2017-09-29 09:47:26 [wakanda.Test.backend] INFO - "backend" project closed
+2017-09-29 09:47:26 [wakanda.Test] WARN - "Test" solution opened with errors
+2017-09-29 09:47:27 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 09:53:43 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 09:53:43 [wakanda.Test.backend.iasv] ERROR - [1061] , task #775
+2017-09-29 09:53:43 [wakanda.Test.backend] WARN - "backend" project opened with errors
+2017-09-29 09:53:43 [wakanda.Test.iasv] ERROR - [1013] Cannot open 'backend' project, task #775
+2017-09-29 09:53:43 [wakanda.Test.backend] INFO - "backend" project closed
+2017-09-29 09:53:43 [wakanda.Test] WARN - "Test" solution opened with errors
+2017-09-29 09:53:43 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:08:58 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:08:58 [wakanda.Test.backend.iasv] ERROR - [1061] , task #775
+2017-09-29 10:08:58 [wakanda.Test.backend] WARN - "backend" project opened with errors
+2017-09-29 10:08:58 [wakanda.Test.iasv] ERROR - [1013] Cannot open 'backend' project, task #775
+2017-09-29 10:08:58 [wakanda.Test.backend] INFO - "backend" project closed
+2017-09-29 10:08:58 [wakanda.Test] WARN - "Test" solution opened with errors
+2017-09-29 10:08:58 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:12:24 [wakanda] INFO - Opens the solution "Macintosh HD:Users:alistairbates:projects:_mentor:stephen-davies:Test:app.waSolution" for running
+2017-09-29 10:12:25 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:12:25 [wakanda.Test.backend.iasv] ERROR - [1061] , task #775
+2017-09-29 10:12:25 [wakanda.Test.backend] WARN - "backend" project opened with errors
+2017-09-29 10:12:25 [wakanda.Test.iasv] ERROR - [1013] Cannot open 'backend' project, task #775
+2017-09-29 10:12:25 [wakanda.Test.backend] INFO - "backend" project closed
+2017-09-29 10:12:25 [wakanda.Test] WARN - "Test" solution opened with errors
+2017-09-29 10:12:25 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:12:43 [wakanda] INFO - Opens the solution "Macintosh HD:Users:alistairbates:projects:_mentor:stephen-davies:Test:app.waSolution" for running
+2017-09-29 10:12:44 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:12:44 [wakanda.Test.backend.iasv] ERROR - [1061] , task #775
+2017-09-29 10:12:44 [wakanda.Test.backend] WARN - "backend" project opened with errors
+2017-09-29 10:12:44 [wakanda.Test.iasv] ERROR - [1013] Cannot open 'backend' project, task #775
+2017-09-29 10:12:44 [wakanda.Test.backend] INFO - "backend" project closed
+2017-09-29 10:12:44 [wakanda.Test] WARN - "Test" solution opened with errors
+2017-09-29 10:12:44 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:13:44 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:13:44 [wakanda.Test.app] INFO - Datastore opened
+2017-09-29 10:13:44 [wakanda.Test.app] INFO - "app" project opened
+2017-09-29 10:13:44 [wakanda.Test.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-29 10:13:44 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-29 10:13:44 [wakanda.Test] INFO - "Test" solution opened
+2017-09-29 10:13:44 [wakanda] INFO - Starts "Test" solution
+2017-09-29 10:13:44 [wakanda.Test.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-29 10:13:45 [wakanda.Test.ServerAdmin] INFO - HTTP Server started
+2017-09-29 10:13:45 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-29 10:13:45 [wakanda.Test.app] INFO - "app" project started
+2017-09-29 10:13:45 [wakanda.Test.xbox] ERROR - [3] , task #775
+2017-09-29 10:13:45 [wakanda.Test.xbox] ERROR - [3] , task #775
+2017-09-29 10:13:45 [wakanda.Test.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-29 10:13:45 [wakanda.Test.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-29 10:13:45 [wakanda.Test.app] INFO - Executes the bootstrap file(s)
+2017-09-29 10:13:45 [wakanda.Test.app] INFO - Bootstrap file(s) executed
+2017-09-29 10:13:45 [wakanda.Test] INFO - "Test" solution started
+2017-09-29 10:13:45 [wakanda] INFO - "Test" solution has been successfully opened for running (duration: 1316 ms)
+2017-09-29 10:15:59 [wakanda] INFO - Stops "Test" solution
+2017-09-29 10:15:59 [wakanda.Test.app] INFO - "app" project stopped
+2017-09-29 10:16:00 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-29 10:16:00 [wakanda.Test] INFO - "Test" solution stopped
+2017-09-29 10:16:00 [wakanda] INFO - Closes "Test" solution
+2017-09-29 10:16:01 [wakanda.Test.app] INFO - "app" project closed
+2017-09-29 10:16:01 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-29 10:16:01 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:16:07 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:16:07 [wakanda.Test.app] INFO - Datastore opened
+2017-09-29 10:16:07 [wakanda.Test.app] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-29 10:16:07 [wakanda.Test.app] INFO - "app" project opened
+2017-09-29 10:16:07 [wakanda.Test.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-29 10:16:07 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-29 10:16:07 [wakanda.Test] INFO - "Test" solution opened
+2017-09-29 10:16:07 [wakanda] INFO - Starts "Test" solution
+2017-09-29 10:16:07 [wakanda.Test.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-29 10:16:07 [wakanda.Test.ServerAdmin] INFO - HTTP Server started
+2017-09-29 10:16:07 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-29 10:16:08 [wakanda.Test.app] INFO - HTTP Server started
+2017-09-29 10:16:08 [wakanda.Test.app] INFO - "app" project started
+2017-09-29 10:16:08 [wakanda.Test.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-29 10:16:08 [wakanda.Test.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-29 10:16:08 [wakanda.Test.app] INFO - Executes the bootstrap file(s)
+2017-09-29 10:16:08 [wakanda.Test.app] INFO - Bootstrap file(s) executed
+2017-09-29 10:16:08 [wakanda.Test] INFO - "Test" solution started
+2017-09-29 10:16:08 [wakanda] INFO - "Test" solution has been successfully opened for running (duration: 1278 ms)
+2017-09-29 10:16:51 [wakanda] INFO - Stops "Test" solution
+2017-09-29 10:16:52 [wakanda.Test.app] INFO - "app" project stopped
+2017-09-29 10:16:54 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-29 10:16:54 [wakanda.Test] INFO - "Test" solution stopped
+2017-09-29 10:16:54 [wakanda] INFO - Closes "Test" solution
+2017-09-29 10:16:54 [wakanda.Test.app] INFO - "app" project closed
+2017-09-29 10:16:54 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-29 10:16:54 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:17:20 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:17:21 [IndexManager] INFO - Index  on Contacts.ID built in 0 ms
+2017-09-29 10:17:21 [IndexManager] INFO - Index  on Contacts.travalerID built in 0 ms
+2017-09-29 10:17:21 [IndexManager] INFO - Index  on Documents.ID built in 0 ms
+2017-09-29 10:17:21 [IndexManager] INFO - Index  on Documents.travelerID built in 0 ms
+2017-09-29 10:17:21 [IndexManager] INFO - Index  on Payments.ID built in 0 ms
+2017-09-29 10:17:21 [IndexManager] INFO - Index  on Payments.travelerID built in 0 ms
+2017-09-29 10:17:21 [IndexManager] INFO - Index  on Preferences.ID built in 0 ms
+2017-09-29 10:17:21 [IndexManager] INFO - Index  on Travelers.ID built in 0 ms
+2017-09-29 10:17:21 [wakanda.Test.app] INFO - Datastore opened
+2017-09-29 10:17:21 [wakanda.Test.app] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-29 10:17:21 [wakanda.Test.app] INFO - "app" project opened
+2017-09-29 10:17:21 [wakanda.Test.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-29 10:17:21 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-29 10:17:21 [wakanda.Test] INFO - "Test" solution opened
+2017-09-29 10:17:21 [wakanda] INFO - Starts "Test" solution
+2017-09-29 10:17:21 [wakanda.Test.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-29 10:17:21 [wakanda.Test.ServerAdmin] INFO - HTTP Server started
+2017-09-29 10:17:21 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-29 10:17:22 [wakanda.Test.app] INFO - HTTP Server started
+2017-09-29 10:17:22 [wakanda.Test.app] INFO - "app" project started
+2017-09-29 10:17:22 [wakanda.Test.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-29 10:17:22 [wakanda.Test.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-29 10:17:22 [wakanda.Test.app] INFO - Executes the bootstrap file(s)
+2017-09-29 10:17:22 [wakanda.Test.app] INFO - Bootstrap file(s) executed
+2017-09-29 10:17:22 [wakanda.Test] INFO - "Test" solution started
+2017-09-29 10:17:22 [wakanda] INFO - "Test" solution has been successfully opened for running (duration: 2380 ms)
+2017-09-29 10:17:27 [wakanda] INFO - Stops "Test" solution
+2017-09-29 10:17:28 [wakanda.Test.app] INFO - "app" project stopped
+2017-09-29 10:17:30 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-29 10:17:30 [wakanda.Test] INFO - "Test" solution stopped
+2017-09-29 10:17:30 [wakanda] INFO - Closes "Test" solution
+2017-09-29 10:17:30 [wakanda.Test.app] INFO - "app" project closed
+2017-09-29 10:17:30 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-29 10:17:30 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:17:35 [wakanda] INFO - Opens the solution "Macintosh HD:Users:alistairbates:projects:_mentor:stephen-davies:Test:app.waSolution" for running
+2017-09-29 10:17:35 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:17:36 [IndexManager] INFO - Index  on Contacts.ID built in 0 ms
+2017-09-29 10:17:36 [IndexManager] INFO - Index  on Contacts.travalerID built in 0 ms
+2017-09-29 10:17:36 [IndexManager] INFO - Index  on Documents.ID built in 0 ms
+2017-09-29 10:17:36 [IndexManager] INFO - Index  on Documents.travelerID built in 0 ms
+2017-09-29 10:17:36 [IndexManager] INFO - Index  on Payments.ID built in 0 ms
+2017-09-29 10:17:36 [IndexManager] INFO - Index  on Payments.travelerID built in 0 ms
+2017-09-29 10:17:36 [IndexManager] INFO - Index  on Preferences.ID built in 0 ms
+2017-09-29 10:17:36 [IndexManager] INFO - Index  on Travelers.ID built in 0 ms
+2017-09-29 10:17:36 [wakanda.Test.app] INFO - Datastore opened
+2017-09-29 10:17:36 [wakanda.Test.app] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-29 10:17:36 [wakanda.Test.app] INFO - "app" project opened
+2017-09-29 10:17:36 [wakanda.Test.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-29 10:17:36 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-29 10:17:36 [wakanda.Test] INFO - "Test" solution opened
+2017-09-29 10:17:36 [wakanda] INFO - Starts "Test" solution
+2017-09-29 10:17:36 [wakanda.Test.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-29 10:17:37 [wakanda.Test.ServerAdmin] INFO - HTTP Server started
+2017-09-29 10:17:37 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-29 10:17:37 [wakanda.Test.app] INFO - HTTP Server started
+2017-09-29 10:17:37 [wakanda.Test.app] INFO - "app" project started
+2017-09-29 10:17:37 [wakanda.Test.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-29 10:17:37 [wakanda.Test.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-29 10:17:37 [wakanda.Test.app] INFO - Executes the bootstrap file(s)
+2017-09-29 10:17:37 [wakanda.Test.app] INFO - Bootstrap file(s) executed
+2017-09-29 10:17:37 [wakanda.Test] INFO - "Test" solution started
+2017-09-29 10:17:37 [wakanda] INFO - "Test" solution has been successfully opened for running (duration: 2405 ms)
+2017-09-29 10:18:30 [wakanda] INFO - Stops "Test" solution
+2017-09-29 10:18:31 [wakanda.Test.app] INFO - "app" project stopped
+2017-09-29 10:18:33 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-29 10:18:33 [wakanda.Test] INFO - "Test" solution stopped
+2017-09-29 10:18:33 [wakanda] INFO - Closes "Test" solution
+2017-09-29 10:18:33 [wakanda.Test.app] INFO - "app" project closed
+2017-09-29 10:18:33 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-29 10:18:33 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:19:18 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:19:18 [IndexManager] INFO - Index  on Contacts.ID built in 0 ms
+2017-09-29 10:19:18 [IndexManager] INFO - Index  on Contacts.travalerID built in 0 ms
+2017-09-29 10:19:18 [IndexManager] INFO - Index  on Documents.ID built in 0 ms
+2017-09-29 10:19:18 [IndexManager] INFO - Index  on Documents.travelerID built in 0 ms
+2017-09-29 10:19:18 [IndexManager] INFO - Index  on Payments.ID built in 0 ms
+2017-09-29 10:19:18 [IndexManager] INFO - Index  on Payments.travelerID built in 0 ms
+2017-09-29 10:19:18 [IndexManager] INFO - Index  on Preferences.ID built in 0 ms
+2017-09-29 10:19:18 [IndexManager] INFO - Index  on Travelers.ID built in 0 ms
+2017-09-29 10:19:18 [wakanda.Test.app] INFO - Datastore opened
+2017-09-29 10:19:18 [wakanda.Test.app] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-29 10:19:18 [wakanda.Test.app] INFO - "app" project opened
+2017-09-29 10:19:18 [wakanda.Test.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-29 10:19:18 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-29 10:19:19 [wakanda.Test] INFO - "Test" solution opened
+2017-09-29 10:19:19 [wakanda] INFO - Starts "Test" solution
+2017-09-29 10:19:19 [wakanda.Test.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-29 10:19:19 [wakanda.Test.ServerAdmin] INFO - HTTP Server started
+2017-09-29 10:19:19 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-29 10:19:19 [wakanda.Test.app] INFO - HTTP Server started
+2017-09-29 10:19:19 [wakanda.Test.app] INFO - "app" project started
+2017-09-29 10:19:19 [wakanda.Test.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-29 10:19:19 [wakanda.Test.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-29 10:19:19 [wakanda.Test.app] INFO - Executes the bootstrap file(s)
+2017-09-29 10:19:19 [wakanda.Test.app] INFO - Bootstrap file(s) executed
+2017-09-29 10:19:19 [wakanda.Test] INFO - "Test" solution started
+2017-09-29 10:19:19 [wakanda] INFO - "Test" solution has been successfully opened for running (duration: 1611 ms)
+2017-09-29 10:20:33 [wakanda] INFO - Stops "Test" solution
+2017-09-29 10:20:34 [wakanda.Test.app] INFO - "app" project stopped
+2017-09-29 10:20:36 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-29 10:20:36 [wakanda.Test] INFO - "Test" solution stopped
+2017-09-29 10:20:36 [wakanda] INFO - Closes "Test" solution
+2017-09-29 10:20:36 [wakanda.Test.app] INFO - "app" project closed
+2017-09-29 10:20:36 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-29 10:20:37 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:20:41 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:20:42 [IndexManager] INFO - Index  on Contacts.ID built in 0 ms
+2017-09-29 10:20:42 [IndexManager] INFO - Index  on Contacts.travalerID built in 0 ms
+2017-09-29 10:20:42 [IndexManager] INFO - Index  on Documents.ID built in 0 ms
+2017-09-29 10:20:42 [IndexManager] INFO - Index  on Documents.travelerID built in 0 ms
+2017-09-29 10:20:42 [IndexManager] INFO - Index  on Payments.ID built in 0 ms
+2017-09-29 10:20:42 [IndexManager] INFO - Index  on Payments.travelerID built in 0 ms
+2017-09-29 10:20:42 [IndexManager] INFO - Index  on Preferences.ID built in 0 ms
+2017-09-29 10:20:42 [IndexManager] INFO - Index  on Travelers.ID built in 0 ms
+2017-09-29 10:20:42 [wakanda.Test.app] INFO - Datastore opened
+2017-09-29 10:20:42 [wakanda.Test.app] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-29 10:20:42 [wakanda.Test.app] INFO - "app" project opened
+2017-09-29 10:20:42 [wakanda.Test.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-29 10:20:42 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-29 10:20:42 [wakanda.Test] INFO - "Test" solution opened
+2017-09-29 10:20:42 [wakanda] INFO - Starts "Test" solution
+2017-09-29 10:20:42 [wakanda.Test.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-29 10:20:42 [wakanda.Test.ServerAdmin] INFO - HTTP Server started
+2017-09-29 10:20:42 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-29 10:20:43 [wakanda.Test.app] INFO - HTTP Server started
+2017-09-29 10:20:43 [wakanda.Test.app] INFO - "app" project started
+2017-09-29 10:20:43 [wakanda.Test.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-29 10:20:43 [wakanda.Test.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-29 10:20:43 [wakanda.Test.app] INFO - Executes the bootstrap file(s)
+2017-09-29 10:20:43 [wakanda.Test.app] INFO - Bootstrap file(s) executed
+2017-09-29 10:20:43 [wakanda.Test] INFO - "Test" solution started
+2017-09-29 10:20:43 [wakanda] INFO - "Test" solution has been successfully opened for running (duration: 2369 ms)
+2017-09-29 10:22:03 [wakanda] INFO - Stops "Test" solution
+2017-09-29 10:22:05 [wakanda.Test.app] INFO - "app" project stopped
+2017-09-29 10:22:06 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-29 10:22:06 [wakanda.Test] INFO - "Test" solution stopped
+2017-09-29 10:22:06 [wakanda] INFO - Closes "Test" solution
+2017-09-29 10:22:06 [wakanda.Test.app] INFO - "app" project closed
+2017-09-29 10:22:06 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-29 10:22:07 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:22:54 [wakanda] INFO - Opens the solution "Macintosh HD:Users:alistairbates:projects:_mentor:stephen-davies:Test:app.waSolution" for running
+2017-09-29 10:22:54 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:22:54 [wakanda.Test.backend.iasv] ERROR - [1061] , task #775
+2017-09-29 10:22:54 [wakanda.Test.backend] WARN - "backend" project opened with errors
+2017-09-29 10:22:54 [wakanda.Test.iasv] ERROR - [1013] Cannot open 'backend' project, task #775
+2017-09-29 10:22:54 [wakanda.Test.backend] INFO - "backend" project closed
+2017-09-29 10:22:54 [wakanda.Test] WARN - "Test" solution opened with errors
+2017-09-29 10:22:55 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:23:22 [wakanda] INFO - Opens the solution "Macintosh HD:Users:alistairbates:projects:_mentor:stephen-davies:Test:app.waSolution" for running
+2017-09-29 10:23:22 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:23:23 [IndexManager] INFO - Index  on Contacts.ID built in 0 ms
+2017-09-29 10:23:23 [IndexManager] INFO - Index  on Contacts.travalerID built in 0 ms
+2017-09-29 10:23:23 [IndexManager] INFO - Index  on Documents.ID built in 0 ms
+2017-09-29 10:23:23 [IndexManager] INFO - Index  on Documents.travelerID built in 0 ms
+2017-09-29 10:23:23 [IndexManager] INFO - Index  on Payments.ID built in 0 ms
+2017-09-29 10:23:23 [IndexManager] INFO - Index  on Payments.travelerID built in 0 ms
+2017-09-29 10:23:23 [IndexManager] INFO - Index  on Preferences.ID built in 0 ms
+2017-09-29 10:23:23 [IndexManager] INFO - Index  on Travelers.ID built in 0 ms
+2017-09-29 10:23:23 [wakanda.Test.app] INFO - Datastore opened
+2017-09-29 10:23:23 [wakanda.Test.app] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-29 10:23:23 [wakanda.Test.app] INFO - "app" project opened
+2017-09-29 10:23:23 [wakanda.Test.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-29 10:23:23 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-29 10:23:23 [wakanda.Test] INFO - "Test" solution opened
+2017-09-29 10:23:23 [wakanda] INFO - Starts "Test" solution
+2017-09-29 10:23:24 [wakanda.Test.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-29 10:23:24 [wakanda.Test.ServerAdmin] INFO - HTTP Server started
+2017-09-29 10:23:24 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-29 10:23:24 [wakanda.Test.app] INFO - HTTP Server started
+2017-09-29 10:23:24 [wakanda.Test.app] INFO - "app" project started
+2017-09-29 10:23:24 [wakanda.Test.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-29 10:23:24 [wakanda.Test.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-29 10:23:24 [wakanda.Test.app] INFO - Executes the bootstrap file(s)
+2017-09-29 10:23:24 [wakanda.Test.app] INFO - Bootstrap file(s) executed
+2017-09-29 10:23:24 [wakanda.Test] INFO - "Test" solution started
+2017-09-29 10:23:24 [wakanda] INFO - "Test" solution has been successfully opened for running (duration: 2574 ms)
+2017-09-29 10:41:30 [wakanda] INFO - Stops "Test" solution
+2017-09-29 10:41:31 [wakanda.Test.app] INFO - "app" project stopped
+2017-09-29 10:41:32 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-29 10:41:32 [wakanda.Test] INFO - "Test" solution stopped
+2017-09-29 10:41:32 [wakanda] INFO - Closes "Test" solution
+2017-09-29 10:41:33 [wakanda.Test.app] INFO - "app" project closed
+2017-09-29 10:41:33 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-29 10:41:33 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:41:38 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:41:39 [IndexManager] INFO - Index  on Contacts.ID built in 0 ms
+2017-09-29 10:41:39 [IndexManager] INFO - Index  on Contacts.travalerID built in 0 ms
+2017-09-29 10:41:39 [IndexManager] INFO - Index  on Documents.ID built in 0 ms
+2017-09-29 10:41:39 [IndexManager] INFO - Index  on Documents.travelerID built in 0 ms
+2017-09-29 10:41:39 [IndexManager] INFO - Index  on Payments.ID built in 0 ms
+2017-09-29 10:41:39 [IndexManager] INFO - Index  on Payments.travelerID built in 0 ms
+2017-09-29 10:41:39 [IndexManager] INFO - Index  on Preferences.ID built in 0 ms
+2017-09-29 10:41:39 [IndexManager] INFO - Index  on Travelers.ID built in 0 ms
+2017-09-29 10:41:39 [wakanda.Test.app] INFO - Datastore opened
+2017-09-29 10:41:39 [wakanda.Test.app] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-29 10:41:39 [wakanda.Test.app] INFO - "app" project opened
+2017-09-29 10:41:39 [wakanda.Test.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-29 10:41:39 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-29 10:41:39 [wakanda.Test] INFO - "Test" solution opened
+2017-09-29 10:41:39 [wakanda] INFO - Starts "Test" solution
+2017-09-29 10:41:39 [wakanda.Test.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-29 10:41:40 [wakanda.Test.ServerAdmin] INFO - HTTP Server started
+2017-09-29 10:41:40 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-29 10:41:40 [wakanda.Test.app] INFO - HTTP Server started
+2017-09-29 10:41:40 [wakanda.Test.app] INFO - "app" project started
+2017-09-29 10:41:40 [wakanda.Test.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-29 10:41:40 [wakanda.Test.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-29 10:41:40 [wakanda.Test.app] INFO - Executes the bootstrap file(s)
+2017-09-29 10:41:40 [wakanda.Test.app] INFO - Bootstrap file(s) executed
+2017-09-29 10:41:40 [wakanda.Test] INFO - "Test" solution started
+2017-09-29 10:41:40 [wakanda] INFO - "Test" solution has been successfully opened for running (duration: 2387 ms)
+2017-09-29 10:47:57 [wakanda] INFO - Stops "Test" solution
+2017-09-29 10:47:58 [wakanda.Test.app] INFO - "app" project stopped
+2017-09-29 10:47:59 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-29 10:47:59 [wakanda.Test] INFO - "Test" solution stopped
+2017-09-29 10:47:59 [wakanda] INFO - Closes "Test" solution
+2017-09-29 10:48:00 [wakanda.Test.app] INFO - "app" project closed
+2017-09-29 10:48:00 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-29 10:48:00 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 10:48:05 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 10:48:06 [IndexManager] INFO - Index  on Contacts.ID built in 0 ms
+2017-09-29 10:48:06 [IndexManager] INFO - Index  on Contacts.travalerID built in 0 ms
+2017-09-29 10:48:06 [IndexManager] INFO - Index  on Documents.ID built in 0 ms
+2017-09-29 10:48:06 [IndexManager] INFO - Index  on Documents.travelerID built in 0 ms
+2017-09-29 10:48:06 [IndexManager] INFO - Index  on Payments.ID built in 0 ms
+2017-09-29 10:48:06 [IndexManager] INFO - Index  on Payments.travelerID built in 0 ms
+2017-09-29 10:48:06 [IndexManager] INFO - Index  on Preferences.ID built in 0 ms
+2017-09-29 10:48:06 [IndexManager] INFO - Index  on Travelers.ID built in 0 ms
+2017-09-29 10:48:06 [wakanda.Test.app] INFO - Datastore opened
+2017-09-29 10:48:06 [wakanda.Test.app] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-29 10:48:06 [wakanda.Test.app] INFO - "app" project opened
+2017-09-29 10:48:06 [wakanda.Test.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-29 10:48:06 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-29 10:48:06 [wakanda.Test] INFO - "Test" solution opened
+2017-09-29 10:48:06 [wakanda] INFO - Starts "Test" solution
+2017-09-29 10:48:06 [wakanda.Test.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-29 10:48:06 [wakanda.Test.ServerAdmin] INFO - HTTP Server started
+2017-09-29 10:48:06 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-29 10:48:06 [wakanda.Test.app] INFO - HTTP Server started
+2017-09-29 10:48:06 [wakanda.Test.app] INFO - "app" project started
+2017-09-29 10:48:06 [wakanda.Test.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-29 10:48:06 [wakanda.Test.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-29 10:48:06 [wakanda.Test.app] INFO - Executes the bootstrap file(s)
+2017-09-29 10:48:07 [wakanda.Test.app.ugmg] ERROR - [55] No "login-method" found for directory.setLoginManager(), task #775
+2017-09-29 10:48:07 [wakanda.Test.app.JS4D] ERROR - [2] Error evaluating javascript file:///Users/alistairbates/projects/_mentor/stephen-davies/Test/backend2/bootstrap.js, task #775
+2017-09-29 10:48:07 [wakanda.Test.app.iasv] ERROR - [1053] Cannot execute bootstrap file, task #775
+2017-09-29 10:48:07 [wakanda.Test.app] WARN - Bootstrap file(s) executed with errors
+2017-09-29 10:48:07 [wakanda.Test.iasv] ERROR - [1014] Cannot start 'app' project, task #775
+2017-09-29 10:48:08 [wakanda.Test.app] INFO - "app" project stopped
+2017-09-29 10:48:08 [wakanda.Test] WARN - "Test" solution started with errors
+2017-09-29 10:48:09 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-29 10:48:09 [wakanda.Test] INFO - "Test" solution stopped
+2017-09-29 10:48:10 [wakanda.Test.app] INFO - "app" project closed
+2017-09-29 10:48:10 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-29 10:48:10 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 15:30:36 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 15:30:37 [IndexManager] INFO - Index  on Contacts.ID built in 0 ms
+2017-09-29 15:30:37 [IndexManager] INFO - Index  on Contacts.travalerID built in 0 ms
+2017-09-29 15:30:37 [IndexManager] INFO - Index  on Documents.ID built in 0 ms
+2017-09-29 15:30:37 [IndexManager] INFO - Index  on Documents.travelerID built in 0 ms
+2017-09-29 15:30:37 [IndexManager] INFO - Index  on Payments.ID built in 0 ms
+2017-09-29 15:30:37 [IndexManager] INFO - Index  on Payments.travelerID built in 0 ms
+2017-09-29 15:30:37 [IndexManager] INFO - Index  on Preferences.ID built in 1 ms
+2017-09-29 15:30:37 [IndexManager] INFO - Index  on Travelers.ID built in 0 ms
+2017-09-29 15:30:37 [wakanda.Test.app] INFO - Datastore opened
+2017-09-29 15:30:37 [wakanda.Test.app] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-29 15:30:37 [wakanda.Test.app] INFO - "app" project opened
+2017-09-29 15:30:37 [wakanda.Test.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-29 15:30:37 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-29 15:30:37 [wakanda.Test] INFO - "Test" solution opened
+2017-09-29 15:30:37 [wakanda] INFO - Starts "Test" solution
+2017-09-29 15:30:39 [wakanda.Test.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-29 15:30:39 [wakanda.Test.ServerAdmin.iasv] ERROR - [1034] Cannot start the HTTP Server, task #775
+2017-09-29 15:30:39 [wakanda.Test.ServerAdmin] WARN - "ServerAdmin" project started with errors
+2017-09-29 15:30:39 [wakanda.Test.iasv] ERROR - [1014] Cannot start 'ServerAdmin' project, task #775
+2017-09-29 15:30:40 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-09-29 15:30:40 [wakanda.Test] WARN - "Test" solution started with errors
+2017-09-29 15:30:40 [wakanda.Test] INFO - "Test" solution stopped
+2017-09-29 15:30:40 [wakanda.Test.app] INFO - "app" project closed
+2017-09-29 15:30:40 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-09-29 15:30:40 [wakanda.Test] INFO - "Test" solution closed
+2017-09-29 15:46:43 [wakanda.supervisor] INFO - solution closed
+2017-09-29 15:46:43 [wakanda] INFO - Opens the solution "Macintosh HD:Users:admin:Documents:Wakanda:solutions:Test v4:app.waSolution" for running
+2017-09-29 15:46:45 [wakanda.Test] INFO - Users and groups directory opened
+2017-09-29 15:46:45 [IndexManager] INFO - Index  on Contacts.ID built in 0 ms
+2017-09-29 15:46:45 [IndexManager] INFO - Index  on Contacts.travalerID built in 0 ms
+2017-09-29 15:46:45 [IndexManager] INFO - Index  on Documents.ID built in 0 ms
+2017-09-29 15:46:45 [IndexManager] INFO - Index  on Documents.travelerID built in 0 ms
+2017-09-29 15:46:45 [IndexManager] INFO - Index  on Payments.ID built in 0 ms
+2017-09-29 15:46:45 [IndexManager] INFO - Index  on Payments.travelerID built in 0 ms
+2017-09-29 15:46:45 [IndexManager] INFO - Index  on Preferences.ID built in 0 ms
+2017-09-29 15:46:45 [IndexManager] INFO - Index  on Travelers.ID built in 0 ms
+2017-09-29 15:46:45 [wakanda.Test.app] INFO - Datastore opened
+2017-09-29 15:46:45 [wakanda.Test.app] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-09-29 15:46:45 [wakanda.Test.app] INFO - "app" project opened
+2017-09-29 15:46:45 [wakanda.Test.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-09-29 15:46:45 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-09-29 15:46:45 [wakanda.Test] INFO - "Test" solution opened
+2017-09-29 15:46:45 [wakanda] INFO - Starts "Test" solution
+2017-09-29 15:46:45 [wakanda.Test.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-09-29 15:46:45 [wakanda.Test.ServerAdmin] INFO - HTTP Server started
+2017-09-29 15:46:45 [wakanda.Test.ServerAdmin] INFO - "ServerAdmin" project started
+2017-09-29 15:46:45 [wakanda.Test.app] INFO - HTTP Server started
+2017-09-29 15:46:45 [wakanda.Test.app] INFO - "app" project started
+2017-09-29 15:46:45 [wakanda.Test.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-09-29 15:46:45 [wakanda.Test.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-09-29 15:46:45 [wakanda.Test.app] INFO - Executes the bootstrap file(s)
+2017-09-29 15:46:45 [wakanda.Test.app] INFO - Bootstrap file(s) executed
+2017-09-29 15:46:45 [wakanda.Test] INFO - "Test" solution started
+2017-09-29 15:46:45 [wakanda] INFO - "Test" solution has been successfully opened for running (duration: 1968 ms)
+2017-09-29 15:46:45 [wakanda.supervisor] INFO - solution opened
